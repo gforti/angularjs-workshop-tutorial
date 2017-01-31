@@ -17,4 +17,4 @@ Lets add this file to the index.html page and also include the ng-app atrribute 
 
 #End of segment. 
 
-Continue
+Next :arrow_right: [Creating a new Module](https://github.com/gforti/angularjs-workshop-tutorial/blob/master/guides/Creating-a-new-Module.md)
