@@ -8,3 +8,4 @@ You must have an understanding of JavaScript already.  The IDE used in the examp
 
 - Make sure to [download](https://github.com/gforti/angularjs-workshop-tutorial/tree/master/lab) the lab folder which are the starting files for this tutorial.
 - Follow this [Guide](https://github.com/gforti/angularjs-workshop-tutorial/blob/master/guides/README.md) and complete each step.
+- Another good angular example can also be found in this repo [Angular-multi-directive](https://github.com/gforti/Angular-multi-directive)
