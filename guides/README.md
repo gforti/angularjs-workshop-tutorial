@@ -2,10 +2,7 @@
 
 This will guide you in creating a small Angular.js application step by step and learn the components to this opinionated JavaScript Framework.
 
-
-###Guide
-
-Complete the guide in the following order.
+###Complete the guide in the following order.
 
 1. Angular - Creating a new Module
 2. Angular - Creating a View
