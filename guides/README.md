@@ -11,6 +11,6 @@ This will guide you in creating a small Angular.js application step by step and 
 
 ###Once completed the site main page should look like this
 
-(angularjs-workshop-tutorial/guides/img/angular-7-complete-1.png)
+(https://raw.githubusercontent.com/gforti/angularjs-workshop-tutorial/master/guides/img/angular-7-complete-1.png)
 
 ###Clicking on a phone, the page should render like this
