@@ -1,13 +1,13 @@
-#Picture guided tutorial
+#Picture guided tutorial for Angular.js
 
 This will guide you in creating a small Angular.js application step by step and learn the components to this opinionated JavaScript Framework.
 
 ###Complete the guide in the following order.
 
-1. Angular - Creating a new Module
-2. Angular - Creating a View
-3. Angular - Creating a Service
-4. Angular - Creating a Service Part two
+1. Creating a new Module
+2. Creating a View
+3. Creating a Service
+4. Creating a Service Part two
 
 ###Once completed the site main page should look like this
 
