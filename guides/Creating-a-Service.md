@@ -37,7 +37,7 @@ Last thing needed before we can see anything is to update the phone-list.templat
 
 Once you are done retest index.html and you should now see a page that looks like this.
 
-![image](https://github.com/gforti/angularjs-workshop-tutorial/blob/master/guides/img/angular-7-service-step8.png)
+![image](https://github.com/gforti/angularjs-workshop-tutorial/blob/master/guides/img/angular-7-complete-1.png)
 
 
 #End of segment. 
