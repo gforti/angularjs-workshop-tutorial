@@ -6,7 +6,7 @@ AngularJS is a JavaScript framework created by Google to build dynamic single pa
 ##What you need
 
 - [ ] NetBeans (OS independent)
-	- HTML5 & PHP bundle (Free, 106 MB)
+	- HTML5/JavaScript bundle (Free, Recommend that you download the platform on OS Independent Zip)
 	- https://netbeans.org/downloads/
 - [ ] A good understanding of JavaScript
 	- https://developer.mozilla.org/en-US/docs/Web/JavaScript
